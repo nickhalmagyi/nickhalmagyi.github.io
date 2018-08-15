@@ -18,7 +18,7 @@ these standard and excellent python libraries, I think one must utilize somethin
 More generally, understanding a little bit of parallelization is a worthy notch in ones belt. 
  
 There are quite a few resources out there to learn about multiprocessing in Python, I strongly recommend people 
-read up about processes vs threads and the GIL but here I am going to be quite modest and offer my
+read up about processes vs threads and the GIL but here I am going to be pretty modest and offer basically my
 understanding of [copy-on-write](https://en.wikipedia.org/wiki/Copy-on-write) in Python. The goal is to parallelize some computations which
 read from, but do not write to, a large in-memory object without triggering the operating system to create multiple
 copies of this object. 
