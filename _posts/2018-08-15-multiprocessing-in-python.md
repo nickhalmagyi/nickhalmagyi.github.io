@@ -257,14 +257,14 @@ because of some minor plotting issue in the next section.
 
 I call this script with 
 ```bash
-$ mprof run -M python3 mp_a pply_async.py
+$ mprof run -M python3 mp_apply_async.py
 ```
 which creates a *.dat* file in the working directory. One can either inspect this file visually
 or plot it with 
 ```bash
 $ mprof plot
 ```
-giving the folloing output 
+giving the following output 
 ![mp_map_async]({{ "/assets/mp_map_async.png" | absolute_url }})
 So this image captures a lot of imformation.
 1. The parent process has a lot of overhead
