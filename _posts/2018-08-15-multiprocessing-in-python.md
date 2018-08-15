@@ -54,7 +54,9 @@ has been declined!! Holy crap, they must have maxed out on those damn Ipads!!
 Too bad, this family holiday is now doomed. Best parents ever huh?
 
 So there's a life  lesson here for everybody: there's no need to buy an Ipad each (then you would have to have headphones 
-for each etc.), just buy one Ipad and these little terrors can all watch the same Ariana Grande clip. Any child who complains can get out
+for each etc.), just buy one Ipad and these little terrors can all watch the same Ariana Grande clip. 
+Nobody changes the channel until we stop the car.
+Any child who complains can get out
 and walk. "Understand kids?".... "I said DO YOU UNDERSTAND!!!?"
 
 **Kids**: meep
