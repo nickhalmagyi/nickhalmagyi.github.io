@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About the Author
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Nick Halmagyi, theoretical physicist, programmer and temperamental hobbiest. 
+I'm pretty cautious about putting private stuff online, so this site is really just about stuff 
+I find interesting in science and tech....and sheesh, there's so much! My interests have shifted 
+from black holes and strings to programming and machine learning, perhaps it's my narrow training but
+machine learning seems to me to be statistical physics under another name. Supersymmetric neural net anyone? oh dear....
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+If I  didn't have science to keep me occupied, 
+I'd probably be surfing and playing mah geetah, a fairly run of the mill cliche for an Australian guy!
