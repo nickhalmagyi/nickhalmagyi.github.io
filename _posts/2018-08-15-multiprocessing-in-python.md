@@ -37,7 +37,7 @@ they generously bought an Ipad for them to share.
 
 However before you've left the city walls, these three
 little monsters in the back seat have erupted into an full-scale, apocalyptic meltdown because they cannot agree which 
-Ariana Grande video to watch next.  
+Ariana Grande video to watch next. Each child is grabbing at the Ipad and clicking on a new video clip, its totally out of control.
 
 **Parent 1**: Oh no, this family holiday is looking really grim!  
 **Parent 2**: Dang it, lets just buy them one each, that'll keep em quiet.
