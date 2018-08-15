@@ -271,9 +271,6 @@ So this image captures a lot of imformation.
 2. Each subprocess take a while to load a copy of the array, this is due to copy-on-write being triggered.
 3. Each subsequent process is delayed by about a second while it
 waits for the array to be loaded into the previous process. 
-4. I suspect the measurement of the memory usage of the parent process is including the sum of the 
-memory usage child-processes...
-to be confirmed.
 
 ### Not altering the reference-count
 
@@ -384,4 +381,4 @@ and the following interesting materials:
 * Chapter 9 of [High Performance Python](http://shop.oreilly.com/product/0636920028963.do) by Gorelick-Ozsvald
 * the response of *vartec* on [this stackoverflow thread](https://stackoverflow.com/questions/10415028/how-can-i-recover-the-return-value-of-a-function-passed-to-multiprocessing-proce)  
 
-Anything I have misunderstood is my own folly.
+Anything I have misunderstood is my own follie.
