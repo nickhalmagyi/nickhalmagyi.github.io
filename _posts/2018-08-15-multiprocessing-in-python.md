@@ -29,7 +29,7 @@ At the bottom of the page, I've collected some references which I have found use
 
 But first, something to get you in the mood...
 
-# Gratuitous Analogy
+# Gratuitous Metaphor
 Imagine if you will, a happy couple blessed with three delightful children and for the upcoming family vacation, 
 they generously bought an Ipad for them to share. 
 
