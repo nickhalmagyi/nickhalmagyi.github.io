@@ -15,7 +15,7 @@ python library is a great place to start. Of course, others have also queried th
 enterprising that they have written a clean multiprocessing wrapper for numpy/pandas/Scikit-learn: 
 meet [Dask](https://dask.pydata.org/en/latest/). However to integrate multiprocessing beyond
 these standard and excellent python libraries, I think one must utilize something like the multiprocessing library.
-Quite generally, I think understanding a little bit of parallelization is a worthy notch in ones belt. 
+More generally, understanding a little bit of parallelization is a worthy notch in ones belt. 
  
 There are quite a few resources out there to learn about multiprocessing in Python, I strongly recommend people 
 read up about processes vs threads and the GIL but here I am going to be quite modest and offer my
