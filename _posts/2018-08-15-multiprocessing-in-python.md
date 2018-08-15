@@ -11,10 +11,10 @@ toc: true
 Peering into my data-science crystal ball I see that the future holds a great wealth of CPU's for everybody. 
 I have kubernetes instances at work with 64 CPU's, how about you?
 This makes for some serious parallelization and the [multiprocessing](https://docs.python.org/3.7/library/multiprocessing.html)
-python library is a great place to start. Of course, others have also queried this same crystal ball, some folks are even so 
+Python library is a great place to start. Of course, others have also queried this same crystal ball, some folks are even so 
 enterprising that they have written a clean multiprocessing wrapper for numpy/pandas/Scikit-learn: 
 meet [Dask](https://dask.pydata.org/en/latest/). However to integrate multiprocessing beyond
-these standard and excellent python libraries, I think one must utilize something like the multiprocessing library.
+these standard and excellent Python libraries, I think one must utilize something like the multiprocessing library.
 More generally, understanding a little bit of parallelization is a worthy notch in ones belt. 
  
 There are quite a few resources out there to learn about multiprocessing in Python, I strongly recommend people 
@@ -30,7 +30,7 @@ At the bottom of the page, I've collected some references which I have found use
 But first, something to get you in the mood...
 
 # Gratuitous Analogy
-Imagine if you will, that a happy couple are blessed with three delightful children and for the upcoming family vacation, 
+Imagine if you will, a happy couple blessed with three delightful children and for the upcoming family vacation, 
 they generously bought an Ipad for them to share. 
 
 **Kids:** Wow, thanks Mum and Dad, you're the best!
@@ -228,7 +228,7 @@ task since in all operating systems, there are various forms of memory and one n
  
  Im going to use the [memory_profiler](https://pypi.org/project/memory_profiler/) library
 which has a 
-[multiprocessing method](https://bbengfort.github.io/observations/2017/03/20/contributing-a-multiprocess-memory-profiler.html)
+[multiprocessing method](https://bbengfort.github.io/observations/2017/03/20/contributing-a-multiprocess-memory-profiler.html).
 This is a script I call *mp_map_async.py*
 ```python
 num_rows = 3*10**7
