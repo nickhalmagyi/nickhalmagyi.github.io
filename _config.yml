@@ -6,7 +6,6 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 # social links
 github_username:  jekyll
-rss: rss
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
